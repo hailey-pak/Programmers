@@ -15,15 +15,18 @@ public class Main {
 
     static int solution(int[] array) {
         int[] all = new int[1001];
-        for (int a : array) {
-            all[a] ++;
-        }
+        for (int a : array) all[a]++;
 
-        int max = -1;
-        int mode = -1;
-        for (int i = 0; i < 1001; i++) {
-            //max
+        int max = all[0];
+        int mode = 0;
+        for (int i = 1; i < 1001; i++) {
+            if (all[i] > max) {
+                max = all[i];
+                mode = i;
+            } else if (all[i] == max) {
+                mode = -1;
+            }
         }
-        return array[array.length/2];
+        return mode;
     }
 }
