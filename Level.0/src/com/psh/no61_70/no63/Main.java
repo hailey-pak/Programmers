@@ -13,9 +13,15 @@ public class Main {
 
     static int solution(String my_string) {
         String[] str = my_string.split(" ");
-        int x = Integer.parseInt(str[0]);
-        int y = Integer.parseInt(str[2]);
-        String op = str[1];
-        return op.equals("+")? x + y : x - y;
+        int ans = Integer.parseInt(str[0]);
+        for (int i = 1; i < str.length; i++) {
+            if (str[i].equals("+")) {
+                ans += Integer.parseInt(str[i+1]);
+            }
+            if (str[i].equals("-")) {
+                ans -= Integer.parseInt(str[i+1]);
+            }
+        }
+        return ans;
     }
 }
