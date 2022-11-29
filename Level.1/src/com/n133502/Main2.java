@@ -9,13 +9,7 @@ public class Main2 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int[] ingredient = Arrays.stream(br.readLine().split("")).mapToInt(Integer::parseInt).toArray();
-
-        long beforeTime = System.currentTimeMillis();
         System.out.println(solution(ingredient));
-        long afterTime = System.currentTimeMillis();
-        long secDiffTime = afterTime - beforeTime;
-        System.out.println("시간차이(m) : "+secDiffTime);
-
         br.close();
     }
 
