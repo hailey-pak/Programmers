@@ -1,4 +1,4 @@
-package n12926_시저암호;
+package n12943_콜라츠추측.n12926_시저암호;
 
 import java.io.BufferedReader;
 import java.io.IOException;
