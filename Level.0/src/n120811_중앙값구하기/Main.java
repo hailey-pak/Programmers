@@ -1,4 +1,4 @@
-package com.psh.no1_10.no10;
+package n120811_중앙값구하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
