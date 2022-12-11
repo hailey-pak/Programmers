@@ -1,4 +1,4 @@
-package com.psh.no11_20.no19;
+package n120820_나이출력;
 
 import java.time.LocalDate;
 import java.util.Scanner;
