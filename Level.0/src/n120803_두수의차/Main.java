@@ -1,4 +1,4 @@
-package com.psh.no1_10.no2;
+package n120803_두수의차;
 
 import java.util.Scanner;
 
