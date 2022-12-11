@@ -1,4 +1,4 @@
-package com.psh.no21_30.no30;
+package n120834_외계행성의나이;
 
 import java.util.Scanner;
 
