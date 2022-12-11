@@ -1,4 +1,4 @@
-package com.psh.no21_30.no22;
+package n120823_직각삼각형출력하기;
 
 import java.util.Scanner;
 
