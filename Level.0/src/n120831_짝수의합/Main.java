@@ -1,4 +1,4 @@
-package com.psh.no21_30.no28;
+package n120831_짝수의합;
 
 import java.util.Scanner;
 
