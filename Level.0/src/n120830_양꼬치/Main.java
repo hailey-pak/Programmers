@@ -1,4 +1,4 @@
-package com.psh.no21_30.no27;
+package n120830_양꼬치;
 
 import java.util.Scanner;
 
