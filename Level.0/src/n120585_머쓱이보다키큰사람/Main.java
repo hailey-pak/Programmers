@@ -1,4 +1,4 @@
-package com.psh.no71_80.no76;
+package n120585_머쓱이보다키큰사람;
 
 import java.io.BufferedReader;
 import java.io.IOException;
