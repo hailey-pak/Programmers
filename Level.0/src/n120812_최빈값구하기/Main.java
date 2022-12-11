@@ -1,4 +1,4 @@
-package com.psh.no11_20.no11;
+package n120812_최빈값구하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
