@@ -1,4 +1,4 @@
-package com.psh.no11_20.no18;
+package n120819_아이스아메리카노;
 
 import java.util.Arrays;
 import java.util.Scanner;
