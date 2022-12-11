@@ -1,4 +1,4 @@
-package com.psh.no21_30.no23;
+package n120824_짝수홀수개수;
 
 import java.io.BufferedReader;
 import java.io.IOException;
