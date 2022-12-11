@@ -1,4 +1,4 @@
-package com.psh.no21_30.no21;
+package n120822_문자열뒤집기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -12,10 +12,8 @@ public class Main {
     }
 
     static String solution(String my_string) {
-        StringBuilder answer = new StringBuilder();
-        for (int i = my_string.length()-1; i >=0 ; i--) {
-            answer.append(my_string.charAt(i));
-        }
-        return answer.toString();
+        StringBuilder sb = new StringBuilder();
+        sb.append(my_string);
+        return sb.reverse().toString();
     }
 }
