@@ -1,4 +1,4 @@
-package com.psh.no21_30.no29;
+package n120833_배열자르기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
