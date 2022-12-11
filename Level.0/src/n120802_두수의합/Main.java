@@ -1,4 +1,4 @@
-package com.psh.no1_10.no1;
+package n120802_두수의합;
 
 import java.util.Scanner;
 
