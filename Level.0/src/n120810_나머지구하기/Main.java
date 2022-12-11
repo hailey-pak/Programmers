@@ -1,4 +1,4 @@
-package com.psh.no1_10.no9;
+package n120810_나머지구하기;
 
 import java.util.Scanner;
 
