@@ -1,4 +1,4 @@
-package com.psh.no1_10.no7;
+package n120808_분수의덧셈;
 
 import java.util.Arrays;
 import java.util.Scanner;
