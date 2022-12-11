@@ -1,4 +1,4 @@
-package com.psh.no21_30.no25;
+package n120825_특정문자제거하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
