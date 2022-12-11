@@ -1,4 +1,4 @@
-package com.psh.no11_20.no17;
+package n120818_옷가게할인받기;
 
 import java.util.Scanner;
 
