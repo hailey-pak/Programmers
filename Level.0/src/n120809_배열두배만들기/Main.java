@@ -1,4 +1,4 @@
-package com.psh.no1_10.no8;
+package n120809_배열두배만들기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
