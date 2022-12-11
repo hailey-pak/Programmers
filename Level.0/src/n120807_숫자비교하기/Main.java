@@ -1,4 +1,4 @@
-package com.psh.no1_10.no6;
+package n120807_숫자비교하기;
 
 import java.util.Scanner;
 
