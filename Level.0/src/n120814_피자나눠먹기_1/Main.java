@@ -1,4 +1,4 @@
-package com.psh.no11_20.no13;
+package n120814_피자나눠먹기_1;
 
 import java.util.Scanner;
 
