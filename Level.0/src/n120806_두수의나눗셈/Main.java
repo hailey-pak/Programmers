@@ -1,4 +1,4 @@
-package com.psh.no1_10.no5;
+package n120806_두수의나눗셈;
 
 import java.util.Scanner;
 
