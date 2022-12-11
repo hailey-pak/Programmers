@@ -1,4 +1,4 @@
-package com.psh.no11_20.no20;
+package n120821_배열뒤집기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
