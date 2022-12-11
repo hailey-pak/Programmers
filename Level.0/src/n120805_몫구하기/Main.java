@@ -1,4 +1,4 @@
-package com.psh.no1_10.no4;
+package n120805_몫구하기;
 
 import java.util.Scanner;
 
