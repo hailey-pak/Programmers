@@ -1,4 +1,4 @@
-package com.psh.no21_30.no26;
+package n120829_각도기;
 
 import java.util.Scanner;
 
