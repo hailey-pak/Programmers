@@ -1,4 +1,4 @@
-package com.psh.no11_20.no12;
+package n120813_짝수는싫어요;
 
 import java.util.Arrays;
 import java.util.Scanner;
