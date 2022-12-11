@@ -1,4 +1,4 @@
-package com.psh.no21_30.no24;
+package n120825_문자반복출력하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
