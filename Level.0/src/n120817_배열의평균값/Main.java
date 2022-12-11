@@ -1,4 +1,4 @@
-package com.psh.no11_20.no16;
+package n120817_배열의평균값;
 
 import java.io.BufferedReader;
 import java.io.IOException;
