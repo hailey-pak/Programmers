@@ -1,4 +1,4 @@
-package com.n12912_두정수사이의합;
+package n12912_두정수사이의합;
 
 import java.util.Scanner;
 
