@@ -1,4 +1,4 @@
-package com.n42840_모의고사;
+package n42840_모의고사;
 
 import java.io.BufferedReader;
 import java.io.IOException;
