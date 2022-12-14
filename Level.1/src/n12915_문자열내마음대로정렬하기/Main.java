@@ -1,4 +1,4 @@
-package com.n12915_문자열내마음대로정렬하기;
+package n12915_문자열내마음대로정렬하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
