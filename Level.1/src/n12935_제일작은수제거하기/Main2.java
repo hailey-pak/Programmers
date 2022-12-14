@@ -1,4 +1,4 @@
-package com.n12935_제일작은수제거하기;
+package n12935_제일작은수제거하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
