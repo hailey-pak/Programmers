@@ -1,4 +1,4 @@
-package com.n133502_햄버거만들기;
+package n133502_햄버거만들기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
