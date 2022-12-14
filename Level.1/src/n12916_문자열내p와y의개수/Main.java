@@ -1,4 +1,4 @@
-package com.n12916_문자열내p와y의개수;
+package n12916_문자열내p와y의개수;
 
 import java.util.Scanner;
 
