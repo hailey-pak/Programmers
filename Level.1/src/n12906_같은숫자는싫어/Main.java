@@ -1,4 +1,4 @@
-package com.n12906_같은숫자는싫어;
+package n12906_같은숫자는싫어;
 
 import java.io.BufferedReader;
 import java.io.IOException;
