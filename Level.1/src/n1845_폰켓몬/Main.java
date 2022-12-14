@@ -1,4 +1,4 @@
-package com.n1845_폰켓몬;
+package n1845_폰켓몬;
 
 import java.io.BufferedReader;
 import java.io.IOException;
