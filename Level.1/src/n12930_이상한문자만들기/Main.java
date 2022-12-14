@@ -1,7 +1,6 @@
 package n12930_이상한문자만들기;
 
 import java.util.Scanner;
-import java.util.StringTokenizer;
 
 public class Main {
     public static void main(String[] args) {
