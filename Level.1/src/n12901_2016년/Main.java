@@ -1,4 +1,4 @@
-package com.n12901_2016년;
+package n12901_2016년;
 
 import java.util.Scanner;
 
