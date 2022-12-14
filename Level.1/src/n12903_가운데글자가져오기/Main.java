@@ -1,4 +1,4 @@
-package com.n12903_가운데글자가져오기;
+package n12903_가운데글자가져오기;
 
 import java.util.Scanner;
 
