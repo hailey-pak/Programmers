@@ -1,4 +1,4 @@
-package com.n12910_나누어떨어지는숫자배열;
+package n12910_나누어떨어지는숫자배열;
 
 import java.io.BufferedReader;
 import java.io.IOException;
