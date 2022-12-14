@@ -1,4 +1,4 @@
-package com.n12917_문자열내림차순으로배치하기;
+package n12917_문자열내림차순으로배치하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
