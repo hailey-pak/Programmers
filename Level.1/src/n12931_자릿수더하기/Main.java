@@ -1,4 +1,4 @@
-package com.n12931_자릿수더하기;
+package n12931_자릿수더하기;
 
 import java.util.Scanner;
 
