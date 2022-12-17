@@ -1,4 +1,4 @@
-package com.psh.no51_60.no54;
+package n120891_369게임;
 
 import java.util.Scanner;
 
