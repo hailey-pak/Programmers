@@ -1,4 +1,4 @@
-package com.psh.no51_60.no57;
+package n120894_영어가싫어요;
 
 import java.io.BufferedReader;
 import java.io.IOException;
