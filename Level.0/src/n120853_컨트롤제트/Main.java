@@ -1,4 +1,4 @@
-package com.psh.no41_50.no49;
+package n120853_컨트롤제트;
 
 import java.io.BufferedReader;
 import java.io.IOException;
