@@ -1,4 +1,4 @@
-package com.psh.no51_60.no55;
+package n120892_암호해독;
 
 import java.io.BufferedReader;
 import java.io.IOException;
