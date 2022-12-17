@@ -1,4 +1,4 @@
-package com.psh.no31_40.no31;
+package n120835_진료순서정하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
