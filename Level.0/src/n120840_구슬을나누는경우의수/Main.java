@@ -1,4 +1,4 @@
-package com.psh.no31_40.no36;
+package n120840_구슬을나누는경우의수;
 
 import java.util.Scanner;
 
