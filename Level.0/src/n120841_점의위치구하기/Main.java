@@ -1,4 +1,4 @@
-package com.psh.no31_40.no37;
+package n120841_점의위치구하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
