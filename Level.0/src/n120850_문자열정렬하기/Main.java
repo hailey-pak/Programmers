@@ -1,4 +1,4 @@
-package com.psh.no41_50.no46;
+package n120850_문자열정렬하기;
 
 import java.util.*;
 
