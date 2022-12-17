@@ -1,4 +1,4 @@
-package com.psh.no51_60.no53;
+package n120890_가까운수;
 
 import java.io.BufferedReader;
 import java.io.IOException;
