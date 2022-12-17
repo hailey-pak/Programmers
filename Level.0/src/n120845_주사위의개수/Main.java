@@ -1,4 +1,4 @@
-package com.psh.no41_50.no41;
+package n120845_주사위의개수;
 
 import java.io.BufferedReader;
 import java.io.IOException;
