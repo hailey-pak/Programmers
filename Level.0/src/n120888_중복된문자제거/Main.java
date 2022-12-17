@@ -1,4 +1,4 @@
-package com.psh.no51_60.no51;
+package n120888_중복된문자제거;
 
 import java.io.BufferedReader;
 import java.io.IOException;
