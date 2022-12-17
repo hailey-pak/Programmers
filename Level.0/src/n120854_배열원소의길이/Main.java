@@ -1,4 +1,4 @@
-package com.psh.no41_50.no50;
+package n120854_배열원소의길이;
 
 import java.io.BufferedReader;
 import java.io.IOException;
