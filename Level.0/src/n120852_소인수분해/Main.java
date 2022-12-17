@@ -1,4 +1,4 @@
-package com.psh.no41_50.no48;
+package n120852_소인수분해;
 
 import java.util.Arrays;
 import java.util.HashSet;
