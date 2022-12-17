@@ -1,4 +1,4 @@
-package com.psh.no31_40.no33;
+package n120837_개미군단;
 
 import java.util.Scanner;
 
