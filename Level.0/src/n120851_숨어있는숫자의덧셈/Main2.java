@@ -1,4 +1,4 @@
-package com.psh.no41_50.no47;
+package n120851_숨어있는숫자의덧셈;
 
 import java.util.Scanner;
 
