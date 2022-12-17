@@ -1,4 +1,4 @@
-package com.psh.no31_40.no32;
+package n120836_순서쌍의개수;
 
 import java.util.Scanner;
 
