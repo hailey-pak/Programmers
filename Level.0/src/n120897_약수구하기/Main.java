@@ -1,4 +1,4 @@
-package com.psh.no51_60.no60;
+package n120897_약수구하기;
 
 import java.util.ArrayList;
 import java.util.Arrays;
