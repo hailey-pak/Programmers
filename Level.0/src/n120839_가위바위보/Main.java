@@ -1,4 +1,4 @@
-package com.psh.no31_40.no35;
+package n120839_가위바위보;
 
 import java.io.BufferedReader;
 import java.io.IOException;
