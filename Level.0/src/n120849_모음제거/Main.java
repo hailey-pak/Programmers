@@ -1,4 +1,4 @@
-package com.psh.no41_50.no45;
+package n120849_모음제거;
 
 import java.util.Scanner;
 
