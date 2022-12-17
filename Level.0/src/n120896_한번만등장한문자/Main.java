@@ -1,4 +1,4 @@
-package com.psh.no51_60.no59;
+package n120896_한번만등장한문자;
 
 import java.io.BufferedReader;
 import java.io.IOException;
