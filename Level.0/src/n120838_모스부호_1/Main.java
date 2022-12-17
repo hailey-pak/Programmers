@@ -1,4 +1,4 @@
-package com.psh.no31_40.no34;
+package n120838_모스부호_1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
