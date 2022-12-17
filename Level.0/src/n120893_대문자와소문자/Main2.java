@@ -1,4 +1,4 @@
-package com.psh.no51_60.no56;
+package n120893_대문자와소문자;
 
 import java.util.Scanner;
 import java.util.stream.Collectors;
