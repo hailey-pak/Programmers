@@ -1,4 +1,4 @@
-package com.psh.no41_50.no42;
+package n120846_합성수찾기;
 
 import java.util.Scanner;
 import java.util.stream.IntStream;
