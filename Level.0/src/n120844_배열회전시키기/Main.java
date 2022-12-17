@@ -1,4 +1,4 @@
-package com.psh.no31_40.no40;
+package n120844_배열회전시키기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
