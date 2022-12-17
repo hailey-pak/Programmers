@@ -1,4 +1,4 @@
-package com.psh.no31_40.no38;
+package n120842_2차원으로만들기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
