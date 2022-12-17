@@ -1,4 +1,4 @@
-package com.psh.no51_60.no58;
+package n120895_인덱스바꾸기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
