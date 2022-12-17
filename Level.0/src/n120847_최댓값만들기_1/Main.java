@@ -1,4 +1,4 @@
-package com.psh.no41_50.no43;
+package n120847_최댓값만들기_1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
