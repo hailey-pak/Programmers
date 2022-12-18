@@ -1,4 +1,4 @@
-package com.psh.no61_70.no65;
+package n120904_숫자찾기;
 
 import java.util.Scanner;
 
