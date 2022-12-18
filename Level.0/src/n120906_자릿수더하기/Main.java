@@ -1,4 +1,4 @@
-package com.psh.no61_70.no67;
+package n120906_자릿수더하기;
 
 import java.util.Scanner;
 
