@@ -1,4 +1,4 @@
-package com.psh.no81_90.no81;
+package n120864_숨어있는숫자의덧셈_2;
 
 import java.util.Scanner;
 
