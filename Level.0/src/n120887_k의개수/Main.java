@@ -1,4 +1,4 @@
-package com.psh.no91_100.no96;
+package n120887_k의개수;
 
 import java.util.Scanner;
 
@@ -12,13 +12,16 @@ public class Main {
     }
 
     static int solution(int i, int j, int k) {
-        int cnt = 0;
-        for (int n = i; n <= j; n++) {
-            String s = String.valueOf(n);
-            for (char c : s.toCharArray()) {
-                if (c == Character.forDigit(k, 10)) cnt++;
+        int answer = 0;
+
+        for (int num = i; num <= j; num++){
+            int tmp = num;
+            while (tmp != 0){
+                if (tmp % 10 == k)
+                    answer++;
+                tmp /= 10;
             }
         }
-        return cnt;
+        return answer;
     }
 }
