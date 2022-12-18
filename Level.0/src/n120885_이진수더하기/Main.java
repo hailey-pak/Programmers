@@ -1,4 +1,4 @@
-package com.psh.no91_100.no94;
+package n120885_이진수더하기;
 
 import java.util.Scanner;
 
