@@ -1,4 +1,4 @@
-package com.psh.no61_70.no68;
+package n120907_OX퀴즈;
 
 import java.io.BufferedReader;
 import java.io.IOException;
