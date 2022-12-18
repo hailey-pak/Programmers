@@ -1,4 +1,4 @@
-package com.psh.no61_70.no61;
+package n120898_편지;
 
 import java.util.Scanner;
 
