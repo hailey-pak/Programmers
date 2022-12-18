@@ -1,4 +1,4 @@
-package com.psh.no91_100.no99;
+package n120923_연속된수의합;
 
 import java.util.ArrayList;
 import java.util.Arrays;
