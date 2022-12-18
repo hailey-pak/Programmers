@@ -1,4 +1,4 @@
-package com.psh.no71_80.no84;
+package n120869_외계어사전;
 
 import java.io.BufferedReader;
 import java.io.IOException;
