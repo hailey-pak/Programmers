@@ -1,4 +1,4 @@
-package com.psh.no71_80.no80;
+package n120863_다항식더하기;
 
 import java.util.Scanner;
 
