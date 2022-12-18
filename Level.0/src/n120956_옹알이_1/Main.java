@@ -1,4 +1,4 @@
-package com.psh.no91_100.no91;
+package n120956_옹알이_1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
