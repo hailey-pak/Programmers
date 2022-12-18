@@ -1,4 +1,4 @@
-package com.psh.no81_90.no82;
+package n120866_안전지대;
 
 import java.io.BufferedReader;
 import java.io.IOException;
