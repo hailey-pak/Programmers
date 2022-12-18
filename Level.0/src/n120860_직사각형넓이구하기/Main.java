@@ -1,4 +1,4 @@
-package com.psh.no71_80.no77;
+package n120860_직사각형넓이구하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
