@@ -1,4 +1,4 @@
-package com.psh.no91_100.no92;
+package n120883_로그인성공;
 
 import java.io.BufferedReader;
 import java.io.IOException;
