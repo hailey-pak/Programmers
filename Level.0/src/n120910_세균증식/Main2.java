@@ -1,8 +1,8 @@
-package com.psh.no71_80.no71;
+package n120910_세균증식;
 
 import java.util.Scanner;
 
-public class Main {
+public class Main2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
@@ -11,9 +11,8 @@ public class Main {
     }
 
     static int solution(int n, int t) {
-        for (int i = 0; i < t; i++) {
-            n = n * 2;
-        }
-        return n;
+        int sum;
+        sum = n << t;
+        return sum;
     }
 }
