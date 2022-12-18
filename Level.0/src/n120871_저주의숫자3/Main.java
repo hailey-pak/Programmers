@@ -1,4 +1,4 @@
-package com.psh.no81_90.no85;
+package n120871_저주의숫자3;
 
 import java.util.Scanner;
 
