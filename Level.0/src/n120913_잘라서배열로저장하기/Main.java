@@ -1,4 +1,4 @@
-package com.psh.no71_80.no74;
+package n120913_잘라서배열로저장하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
