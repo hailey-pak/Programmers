@@ -1,4 +1,4 @@
-package com.psh.no71_80.no72.no84;
+package com.psh.no71_80.no84;
 
 import java.io.BufferedReader;
 import java.io.IOException;

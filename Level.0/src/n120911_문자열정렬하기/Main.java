@@ -1,4 +1,4 @@
-package com.psh.no71_80.no72;
+package n120911_문자열정렬하기;
 
 import java.util.Arrays;
 import java.util.Scanner;
