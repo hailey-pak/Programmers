@@ -1,4 +1,4 @@
-package com.psh.no61_70.no69;
+package n120908_문자열안에문자열;
 
 import java.io.BufferedReader;
 import java.io.IOException;
