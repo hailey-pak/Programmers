@@ -1,4 +1,4 @@
-package com.psh.no91_100.no98;
+package n120922_종이자르기;
 
 import java.util.Scanner;
 
