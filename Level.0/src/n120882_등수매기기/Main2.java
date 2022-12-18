@@ -1,11 +1,13 @@
-package com.psh.no81_90.no90;
+package n120882_등수매기기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
+import java.util.Comparator;
+import java.util.stream.Collectors;
 
-public class Main {
+public class Main2 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(br.readLine());
@@ -18,17 +20,8 @@ public class Main {
     }
 
     static int[] solution(int[][] score) {
-        int[] sum = new int[score.length];
-        Arrays.setAll(sum, i -> score[i][0] + score[i][1]);
-
-        int[] rank = new int[sum.length];
-        for (int i = 0; i < rank.length; i++) {
-            int n = 1;
-            for (int s : sum) {
-                if (sum[i] < s) n++;
-            }
-            rank[i] = n;
-        }
-        return rank;
+        return Arrays.stream(score).map(ints -> Arrays.stream(ints).average().orElse(0)).mapToInt(d -> Arrays.stream(score)
+                        .map(ints -> Arrays.stream(ints).average().orElse(0)).sorted(Comparator.reverseOrder())
+                .collect(Collectors.toList()).indexOf(d) + 1).toArray();
     }
 }
