@@ -1,4 +1,4 @@
-package com.psh.no71_80.no78;
+package n120861_캐릭터의좌표;
 
 import java.io.BufferedReader;
 import java.io.IOException;
