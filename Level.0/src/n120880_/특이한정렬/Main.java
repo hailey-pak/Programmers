@@ -1,4 +1,4 @@
-package com.psh.no81_90.no89;
+package n120880_.특이한정렬;
 
 import java.io.BufferedReader;
 import java.io.IOException;
