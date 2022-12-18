@@ -1,4 +1,4 @@
-package com.psh.no61_70.no64;
+package n120903_배열의유사도;
 
 import java.io.BufferedReader;
 import java.io.IOException;
