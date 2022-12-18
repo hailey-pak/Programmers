@@ -1,4 +1,4 @@
-package com.psh.no71_80.no73;
+package n120912_7의개수;
 
 import java.io.BufferedReader;
 import java.io.IOException;
