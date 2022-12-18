@@ -1,4 +1,4 @@
-package com.psh.no81_90.no83;
+package n120868_삼각형의완성조건_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
