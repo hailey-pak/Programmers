@@ -1,4 +1,4 @@
-package com.psh.no61_70.no63;
+package n120902_문자열계산하기;
 
 import java.io.BufferedReader;
 import java.io.IOException;
