@@ -1,4 +1,4 @@
-package com.psh.no91_100.no93;
+package n120884_치킨쿠폰;
 
 import java.util.Scanner;
 
