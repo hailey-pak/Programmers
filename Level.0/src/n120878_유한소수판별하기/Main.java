@@ -1,4 +1,4 @@
-package com.psh.no81_90.no88;
+package n120878_유한소수판별하기;
 
 import java.util.Scanner;
 
