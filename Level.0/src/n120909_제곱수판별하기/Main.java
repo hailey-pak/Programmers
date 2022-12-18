@@ -1,4 +1,4 @@
-package com.psh.no61_70.no70;
+package n120909_제곱수판별하기;
 
 import java.util.Scanner;
 
