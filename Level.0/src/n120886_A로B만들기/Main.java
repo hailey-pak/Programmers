@@ -1,8 +1,8 @@
-package com.psh.no91_100.no95;
+package n120886_A로B만들기;
 
 import java.util.Scanner;
 
-public class Main2 {
+public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String before = sc.nextLine();
@@ -11,11 +11,9 @@ public class Main2 {
     }
 
     static int solution(String before, String after) {
-        int sum1 = 0, sum2 = 0;
         for (int i = 0; i < before.length(); i++) {
-            sum1 += before.charAt(i);
-            sum2 += after.charAt(i);
+            after = after.replaceFirst(before.charAt(i)+"", "");
         }
-        return sum1 == sum2 ? 1 : 0;
+        return after.trim().length() == 0 ? 1 : 0;
     }
 }
