@@ -1,4 +1,4 @@
-package com.psh.no91_100.no97;
+package n120921_문자열밀기;
 
 import java.util.Scanner;
 
