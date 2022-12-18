@@ -1,4 +1,4 @@
-package com.psh.no81_90.no86;
+package n120875_평행;
 
 import java.io.BufferedReader;
 import java.io.IOException;
