@@ -1,4 +1,4 @@
-package com.psh.no91_100.no100;
+package n120924_다음에올숫자;
 
 import java.io.BufferedReader;
 import java.io.IOException;
