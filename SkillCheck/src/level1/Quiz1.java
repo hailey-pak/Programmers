@@ -1,4 +1,4 @@
-package n455824_level1;
+package level1;
 
 import java.util.Scanner;
 
